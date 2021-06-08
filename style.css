@@ -1,0 +1,16 @@
+body{
+	background-color:Aqua;
+	color: cadeBlue;
+}
+h1{
+	color:coral;
+	text-align:center;
+	font: italic 200% fantasy;
+}
+p{
+	background-color: lime;
+	font-size:60 px;
+	font-weight:bold;
+	text-align:center;
+}
+	
